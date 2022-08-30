@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/onlinedukan/static/css/main.073c9b0a.css",
-    "main.js": "/onlinedukan/static/js/main.7ccf149d.js",
+    "main.js": "/onlinedukan/static/js/main.45188641.js",
     "static/js/787.27a4aa2b.chunk.js": "/onlinedukan/static/js/787.27a4aa2b.chunk.js",
     "index.html": "/onlinedukan/index.html",
     "main.073c9b0a.css.map": "/onlinedukan/static/css/main.073c9b0a.css.map",
-    "main.7ccf149d.js.map": "/onlinedukan/static/js/main.7ccf149d.js.map",
+    "main.45188641.js.map": "/onlinedukan/static/js/main.45188641.js.map",
     "787.27a4aa2b.chunk.js.map": "/onlinedukan/static/js/787.27a4aa2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7ccf149d.js"
+    "static/js/main.45188641.js"
   ]
 }
